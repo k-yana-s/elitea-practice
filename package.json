@@ -1,0 +1,9 @@
+{
+  "name": "elitea-ui-tests",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "test": "npx playwright test"
+  }
+}
+
